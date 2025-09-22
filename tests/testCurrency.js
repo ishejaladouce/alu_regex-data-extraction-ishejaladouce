@@ -1,4 +1,4 @@
-// tests/testCurrency.js
+// // Import the Currency regex
 const { currency } = require('../src/regexPatterns');
 
 // Sample inputs

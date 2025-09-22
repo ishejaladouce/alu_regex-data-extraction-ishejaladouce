@@ -1,3 +1,5 @@
+//import the email regex 
+
 const { email } =  require('../src/regexPatterns');
 
 // sample inputs to test the RegExp

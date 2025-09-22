@@ -1,4 +1,4 @@
-// tests/testCreditCards.js
+// inmport the CreditCards regex
 const { creditCard } = require('../src/regexPatterns');
 
 // Sample inputs

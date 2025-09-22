@@ -1,4 +1,4 @@
-// tests/testPhones.js
+// import the phone regex
 const { phone } = require('../src/regexPatterns');
 
 // Sample inputs

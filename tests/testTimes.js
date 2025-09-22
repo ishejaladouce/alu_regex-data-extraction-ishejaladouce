@@ -1,4 +1,4 @@
-// tests/testTimes.js
+// import the time regex
 const { time } = require('../src/regexPatterns');
 
 // Sample inputs

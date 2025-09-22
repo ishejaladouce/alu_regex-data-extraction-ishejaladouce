@@ -1,4 +1,4 @@
-//tests/testURLs.js
+//Import the URL regex
 const { url } = require('../src/regexPatterns');
 
 //sample inputs 
