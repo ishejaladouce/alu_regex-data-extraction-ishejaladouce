@@ -20,17 +20,20 @@ Each regex pattern is tested with **sample inputs** that include **valid and inv
 alu_regex-data-extraction-ishejaladouce/
 │
 ├── src/
-│   └── regexPatterns.js       # All regex patterns for emails, URLs, phones, credit cards, time, and currency
+│   └── regexPatterns.js       # All regex patterns for emails, URLs, phones, credit cards, time, currency, HTML tags, and hashtags
 │
 ├── tests/
-│   ├── testEmails.js          # Tests for email regex
-│   ├── testURLs.js            # Tests for URL regex
-│   ├── testPhones.js          # Tests for phone number regex
-│   ├── testCreditCards.js     # Tests for credit card regex
-│   ├── testTimes.js           # Tests for time regex
-│   └── testCurrency.js        # Tests for currency regex
-│
-└── README.md                  # Project overview, instructions, and examples
+│   ├── testEmails.js          # Test file for email regex
+│   ├── testURLs.js            # Test file for URL regex
+│   ├── testPhones.js          # Test file for phone number regex
+│   ├── testCreditCards.js     # Test file for credit card regex
+│   ├── testTimes.js           # Test file for time regex
+│   ├── testCurrency.js        # Test file for currency regex
+│   ├── testHTMLTags.js        # Test file for HTML tags regex
+│   └── testHashtags.js        # Test file for hashtags regex
+│               
+└── README.md               # Project overview, instructions, and examples
+
 
 ## Instructions
 
